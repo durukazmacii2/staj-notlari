@@ -1,0 +1,40 @@
+#Staj Günlüğü---21/09/2026(gün4)
+##Bugun ne yaptım?
+-Bugün sabah ofise gelip yarım kalan ödevimi yaptım.
+-Proje ödevim ile igili araştırma yapıp yazı yazdım.
+
+
+##Bugün ne öğrendim?
+-Metotlar.
+-class ve object
+
+##Kullandığım kavramlar...
+--Namespace,private,public,internal,protected,static,const,abstract,sealed,partial,virtual,ovverride,new,readonly,async,out,in
+params,this,base,null,true,false,args
+
+##Bugün yaptığım bir hata veya takıldığım nokta...
+-yok
+
+##Sorunu nasıl çözdüm?
+-yok.
+
+##Araştırdığım konu...
+-C# değişkenleri ve veri tipleri
+-Kullanıcı girdisi ve güvenli dönüşüm
+-Koşullar ve döngüler
+-Metotlar
+-Class ve object
+
+
+
+##Baktığım Kaynaklar...
+-console sınıf kullanımı
+1.(https://www.vektorelbilisim.com/haberler/c-ta-console-sinifi-kullanimi)
+2.(https://learn.microsoft.com/tr-tr/dotnet/api/system.console?view=net-10.0)
+-c# kullanımı
+1.(https://www.w3schools.com/cs/index.php)
+-liste kullanımı
+1.(https://www.geeksforgeeks.org/c-sharp/list-class-in-c-sharp/)
+2.(https://learn.microsoft.com/tr-tr/dotnet/api/system.collections.generic.list-1?view=net-10.0)
+
+##Bir sonraki staj gününde devam edeceğim şey...
