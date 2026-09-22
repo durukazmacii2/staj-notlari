@@ -1,0 +1,45 @@
+#Staj Günlüğü---15/09/2026(gün2)
+##Bugun ne yaptım?
+-Bugün Emre Hoca  ilk projemi verdi.
+-Projemi yapabilmek için yapabilmek için bilgisayarıma Visual Studio'yu indirdim ve kurdum.
+-Daha sonra verilen  proje ile ilgili internet üzerinden araştırma yaptım.
+-Anlamadığım kısımları eğitim videoları izledim.
+-Daha sonra Emre Hoca bizi bilmediğimiz ve anlamadığımız  kısımları anlattı.Anlatımın ardından soru--cevap yaparak konuları pekiştirdik.
+-Emre Hoca bize ödev verdi.
+
+##Bugün ne öğrendim?
+-Github hesabı açmayı.
+-C# 'da consol sınıfı kullanmayı.
+
+##Kullandığım kavramlar...
+-Console.WriteLine
+-Class
+-Bool
+-Reveerse
+-Add
+-Foreach
+
+##Bugün yaptığım bir hata veya takıldığım nokta...
+-C# da list kullanımı ve veri yazdırma.
+
+##Sorunu nasıl çözdüm?
+-Emre Hocaya sorarak ve internet üzerinden araştırma yaparak.
+
+##Araştırdığım konu...
+-Console kullanımı.
+-List<t> kullanımı.
+-list içinde arama yapma.
+-C# da class kullanımı.
+
+##Baktığım Kaynaklar...
+-console sınıf kullanımı
+1.(https://www.vektorelbilisim.com/haberler/c-ta-console-sinifi-kullanimi)
+2.(https://learn.microsoft.com/tr-tr/dotnet/api/system.console?view=net-10.0)
+-c# kullanımı
+1.(https://www.w3schools.com/cs/index.php)
+-liste kullanımı
+1.(https://www.geeksforgeeks.org/c-sharp/list-class-in-c-sharp/)
+2.(https://learn.microsoft.com/tr-tr/dotnet/api/system.collections.generic.list-1?view=net-10.0)
+
+##Bir sonraki staj gününde devam edeceğim şey...
+--Projeme devam etmek.
