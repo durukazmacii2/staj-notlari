@@ -1,0 +1,54 @@
+Public:Herkese açık veya genel anlamına gelen bir erişim belirleyicidir. Bir sınıf ,derğişken veya metot olarak tanımlandığında projenin veya diğer nesne yönelimi her yerden erişilebilir.
+gizli veya özel öğelerin aksine dışarıdan kullanmaya açıktır.
+
+Public:Bir sınıf içinden değişken veya fonksiyonun sadece o sınıfın içinden çağrılabileceğini belirtir. Dışarıdan doğrudan ulaşılmaz. Sadece izin verildiği alan içinden erişilebilir olduğunu gösteren erişim belirtecidir.
+
+İnternal:Bir sistemin ,ağın, uygulamanın veya organizasyonun kendi içinde çalışan,dışaarıya apalı olan veya dış kullanıcılar tarafından erişilmeyen yapıları ifade eder.
+
+Protected:bağlama göre ikiye ayrılır.Protected olarak tanımlanan bir öğe sadece o sınıfı kendisinden ve o sınıftan türetilen alt sınıflardan erişilebilir.Dışarıdan diğer sınıflardan veya nesneledn gizlenmiştir.
+
+Static:Değiştirilmeyen,sabit kalan veya nesne üretilmeden doğrudan sınıf üzerinden kullanılabilen yapıları ifade eder.Yazılım dillerinde bir değişken veya metodun başına static kelimesi eklendiğinde , o yapı o sınıfın bir nesnesine değil,doğrudan sınıfın kendisinde ait olur.
+
+Const:Bir değişkenin değerinin program çalışırken değiştirilmemesini sağlayan bir anahtar kelimedir.Const ile tanımlanan bir değişkene ilk değer atandıktan sonra,kodun ilerleyen kısımlarda bu değre yeni bir atama yapılmaz.
+
+Abstract:Yazılım dünyasında alt sınıflarla bir şablon oluşturan,doğrudan nesnesi üretilmeyem üst sınıf yapıdısıdır.Alt sınıflarda taşıması gereken ortak özellikleri ve metotları bir arada toplar.
+
+Sealed:Yazılım dünyasında sealed anahtar kelimesi bir sınıfın başka sınıflar tarafından miras alınmasını engelleyen bir niteleyicidir. Değiştirilmesini istenmeyen kod yapılarını korur.
+
+Partial:Bilişim ve Yazılım dünyasında büyük bir yapının veya web sayfasının küçük parçalara bölünerek farklı dosyalarda yönetilmesini sağlayan bir program özelliğidir.
+
+Virtual:Fiziksel olarak var olmayan ancak yazılım veya donanım yardımıyla gerçekte varmış gibi taklit edilerek çalıştırılan sistemleri, bileşen ve yapılarını ifade eder.
+
+Override:Nesne yönelimli programlarda bir alt sınıfın,üst sınıfından miras aldığı bir metodun davranışını değiştirmesi veya yeniden tanımlaması işlemidir.Oluşturmuş olduğumuz sınıf yapılarında kalıtım sayesinde üst sınıflardan,alt sınıfa geçiş sağlayacak metot yapılarının aktarıldığı alt sınıf yapısının uygun bir şekilde gövdesinin değiştirilmesine ve kod satırının yeniden şekil almasına imkan sağlayan yapıya denir.
+
+New:Bellek üzeerinde sıfırdan yeni bir nesne veya örnek oluşturmak için kullanılan anahtar kelimedir. Sınıfın yapıcı metodunu tetikleyerek nesnenin ilk özelliklerini ve başlangıç değerlerini atar.
+
+Readonly:Bir verinin dosyanın veya alanın yalnızca görüntülenebileceği,üzerinde değişiklik yapılmayacağını, silinmeyeceğini veya yeni veri eklenmeyeceğini belirten özelliktir.Bir dosya klasöründe "read-only" işaretlendiğinde içerik okunabilir ve kopyalanabilir ancak bu dosya üzerinde silme, yeni veri ekleme veya kaydetme gibi değişiklikler yapılamaz.
+
+Asyc:Bir programın uzun süren işlemlerin tamamlanmasını beklemeden diğer işlere devam etmesini sağlayan, engellenmeyen bir programlamadır. Kodlar yukarıdan aşağıya sırayla çalışır.Bir işlem bitmeden diğeri başlamaz.
+
+Out:Verinin bir fonksşyondan,sistemden veya donanımdan dşarıyaaktarılmaını ifade eden kavramdır.Bir fonkiyona dışarıdan değer göndermek yerine,fonksiyonun içinde üretilen bir değeri dışarıya aktarmak için bu anahtar kelime kullanılır.
+
+in:Yazılım,bilgisayarların ve elektronik cihazların belirlibir görev yapmasını sağlayan,fiziksel olmayan komutlar ve veriler bütünüdür.
+
+Params:Bir metodun aynı veri türünden değişken sayıda argüman alabilmesini sağlayan anahtar kelimedir.Metodu çağırırken kaç tane değre göndericeğinizi önceden belirtmek zorunda kalmazsınız ister hiç ,ister tek bir değer,ister aralarına virgul olan çok sayıda değer gönderebilrsiniz.Arka planda gönderilen bu değerler otomatik olarak bir diziye dönüştürülür.
+
+This:Nesne yönelimli programlama dillerinde şu an üzerinde çalışılan nesneyi temsil eden özel bir anahtar kelimedir.Üç tane yaygın kullanım amacı vardır. 
+
+1-İsim karışıklığını önlemek
+2-Nesnenin Kendi metot veya özelliği veya metodu çağırmasını sağlar
+2-Nesnenin kendini Parametre olarak göndermesi
+
+Base:Bağlama göre temel veri tabanı mirasını prensibini,nesne yönelimli programlardaki üst sınıf veya anahatar kelimeyiifade eder.Nesne yönelimli programlarda diğer sınıflarla şablon olarak ortak özelliklerinin ve metodların toplandığı üst sııf a denir.Alt sınıflar bu sınıftan miras alarak kod tekrarını engeller.
+
+NUll:Bir değişkene veya nesne referansına hiçbir değer atanmadığını veya ortada hiçbir veri olmadığını gösteren özel bir ifadedir.Sıfır veya boşluk değildir  null değerin tamamen yokluğunu belirtir.
+
+True/False: Programların karar vermesini sağlayan iki temel mantıksal değerdir.True mantıksal olarak bir veri tipi değeridir ve doğru ,geçerli vey olumlu anlamına gelir.False ise bir koşulun ifadenin veya mantıksal olarak değerin yanlış veya başarısıx olduğunu belirten mantıksal bir veri tipidir.
+
+İnternal:Bir kod bloğunun,değişkenin,sınıfın veya kütüphanenin yalnızca tanımadığı sistemin içinde erişebilir olduğunu belrten bir erişim belirleyicidir.Bir kod parçası internal olarak işlendiğinde,o koda yanlızca aynı derleme veya paket içindeki diğer kodlara ulaşılabilşir.
+
+Main:Bir programın çlışmaya bailadığı ana giriş noktasıdır.Programın yürütüldüğü,ilk komutun işleme alındığı yer.
+
+NAmespace:Benzer görece sahip sınıf,fonksiyon ve değişkenleri bir araya toplayan mantıkswal kapsayıcıdır.
+
+Args:Bir fonksiyona dışarıdan gönderilen verileri ifade eder.
