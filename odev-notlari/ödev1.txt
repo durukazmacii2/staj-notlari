@@ -36,7 +36,7 @@ Params:Bir metodun aynı veri türünden değişken sayıda argüman alabilmesin
 This:Nesne yönelimli programlama dillerinde şu an üzerinde çalışılan nesneyi temsil eden özel bir anahtar kelimedir.Üç tane yaygın kullanım amacı vardır. 
 
 1-İsim karışıklığını önlemek
-2-Nesnenin Kendi metot veya özelliği veya metodu çağırmasını sağlar
+2-Nesnenin Kendi özelliğini veya metodu çağırmasını sağlar
 2-Nesnenin kendini Parametre olarak göndermesi
 
 Base:Bağlama göre temel veri tabanı mirasını prensibini,nesne yönelimli programlardaki üst sınıf veya anahatar kelimeyiifade eder.Nesne yönelimli programlarda diğer sınıflarla şablon olarak ortak özelliklerinin ve metodların toplandığı üst sııf a denir.Alt sınıflar bu sınıftan miras alarak kod tekrarını engeller.
