@@ -53,7 +53,7 @@
 >*4)Eğer Sıcaklık <0 ise Durum="BUZ"<p>
 >*5)Eğer Sıcaklık >=100 ise Durum="BUHAR"<p>
 >*6)Değilse Durum="SU"<p>
->*6)Sonucu Yaz<p>
+>*7)Sonucu Yaz<p>
 -------------------------------------------------------------------------------
 **DONANIM NEDİR**
 <Bir bilgisayarı oluşturan fiziksel parçaların genel adı>
