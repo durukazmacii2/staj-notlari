@@ -1,0 +1,15 @@
+C:\Users\duruk\Desktop\liste\liste\liste\bin\Debug\net10.0\liste.exe
+C:\Users\duruk\Desktop\liste\liste\liste\bin\Debug\net10.0\liste.deps.json
+C:\Users\duruk\Desktop\liste\liste\liste\bin\Debug\net10.0\liste.runtimeconfig.json
+C:\Users\duruk\Desktop\liste\liste\liste\bin\Debug\net10.0\liste.dll
+C:\Users\duruk\Desktop\liste\liste\liste\bin\Debug\net10.0\liste.pdb
+C:\Users\duruk\Desktop\liste\liste\liste\obj\Debug\net10.0\liste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duruk\Desktop\liste\liste\liste\obj\Debug\net10.0\liste.AssemblyInfoInputs.cache
+C:\Users\duruk\Desktop\liste\liste\liste\obj\Debug\net10.0\liste.AssemblyInfo.cs
+C:\Users\duruk\Desktop\liste\liste\liste\obj\Debug\net10.0\liste.csproj.CoreCompileInputs.cache
+C:\Users\duruk\Desktop\liste\liste\liste\obj\Debug\net10.0\liste.dll
+C:\Users\duruk\Desktop\liste\liste\liste\obj\Debug\net10.0\refint\liste.dll
+C:\Users\duruk\Desktop\liste\liste\liste\obj\Debug\net10.0\liste.pdb
+C:\Users\duruk\Desktop\liste\liste\liste\obj\Debug\net10.0\liste.genruntimeconfig.cache
+C:\Users\duruk\Desktop\liste\liste\liste\obj\Debug\net10.0\ref\liste.dll
+C:\Users\duruk\Desktop\liste\liste\liste\obj\Debug\net10.0\liste.csproj.Up2Date
