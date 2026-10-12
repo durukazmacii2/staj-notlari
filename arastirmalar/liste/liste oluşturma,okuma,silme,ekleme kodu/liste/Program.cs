@@ -21,13 +21,13 @@ class program
             "flamingo",
             "kaz"
         };
-        // hayvanlar.Remove(hayvanlar[0]);//silmek için index numarası verilir.
+        hayvanlar.Remove(hayvanlar[0]);//silmek için index numarası verilir.
 
-        //hayvanlar.Insert(0, "aslan");//eklemek için index numarası verilir.
+        hayvanlar.Insert(0, "aslan");//eklemek için index numarası verilir.
 
-        // Console.WriteLine("Hayvanlar Listesi:");
-        //Console.WriteLine(hayvanlar.Count + "tane hayvan var.")
-        //Console.WriteLine(hayvanlar);
+         Console.WriteLine("Hayvanlar Listesi:");
+        Console.WriteLine(hayvanlar.Count + "tane hayvan var.")
+        Console.WriteLine(hayvanlar);
         foreach (string hayvan in hayvanlar)
         {
             Console.WriteLine(hayvan);
