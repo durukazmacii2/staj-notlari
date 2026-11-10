@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\duruk\\Desktop\\27 ekim\\27ekim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB02D2D-71A2-44A5-954C-97FD0E9947B6}|27ekim\\27ekim.csproj|c:\\users\\duruk\\desktop\\27 ekim\\27ekim\\27ekim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB02D2D-71A2-44A5-954C-97FD0E9947B6}|27ekim\\27ekim.csproj|solutionrelative:27ekim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\duruk\\Desktop\\27 ekim\\27ekim\\27ekim\\Program.cs",
+              "RelativeDocumentMoniker": "27ekim\\Program.cs",
+              "ToolTip": "C:\\Users\\duruk\\Desktop\\27 ekim\\27ekim\\27ekim\\Program.cs",
+              "RelativeToolTip": "27ekim\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T05:53:45.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

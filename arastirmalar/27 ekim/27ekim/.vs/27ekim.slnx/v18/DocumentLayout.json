@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\duruk\\Desktop\\27 ekim\\27ekim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB02D2D-71A2-44A5-954C-97FD0E9947B6}|27ekim\\27ekim.csproj|c:\\users\\duruk\\desktop\\27 ekim\\27ekim\\27ekim\\readme.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
+      "RelativeMoniker": "D:0:0:{8AB02D2D-71A2-44A5-954C-97FD0E9947B6}|27ekim\\27ekim.csproj|solutionrelative:27ekim\\readme.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\duruk\\Desktop\\27 ekim\\27ekim\\27ekim\\README.md",
+              "RelativeDocumentMoniker": "27ekim\\README.md",
+              "ToolTip": "C:\\Users\\duruk\\Desktop\\27 ekim\\27ekim\\27ekim\\README.md",
+              "RelativeToolTip": "27ekim\\README.md",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAAAM0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-27T05:55:42.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

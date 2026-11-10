@@ -1,0 +1,15 @@
+C:\Users\duruk\Desktop\21 ekim\26-ekim\26-ekim\bin\Debug\net10.0\26-ekim.exe
+C:\Users\duruk\Desktop\21 ekim\26-ekim\26-ekim\bin\Debug\net10.0\26-ekim.deps.json
+C:\Users\duruk\Desktop\21 ekim\26-ekim\26-ekim\bin\Debug\net10.0\26-ekim.runtimeconfig.json
+C:\Users\duruk\Desktop\21 ekim\26-ekim\26-ekim\bin\Debug\net10.0\26-ekim.dll
+C:\Users\duruk\Desktop\21 ekim\26-ekim\26-ekim\bin\Debug\net10.0\26-ekim.pdb
+C:\Users\duruk\Desktop\21 ekim\26-ekim\26-ekim\obj\Debug\net10.0\26-ekim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duruk\Desktop\21 ekim\26-ekim\26-ekim\obj\Debug\net10.0\26-ekim.AssemblyInfoInputs.cache
+C:\Users\duruk\Desktop\21 ekim\26-ekim\26-ekim\obj\Debug\net10.0\26-ekim.AssemblyInfo.cs
+C:\Users\duruk\Desktop\21 ekim\26-ekim\26-ekim\obj\Debug\net10.0\26-ekim.csproj.CoreCompileInputs.cache
+C:\Users\duruk\Desktop\21 ekim\26-ekim\26-ekim\obj\Debug\net10.0\26-ekim.dll
+C:\Users\duruk\Desktop\21 ekim\26-ekim\26-ekim\obj\Debug\net10.0\refint\26-ekim.dll
+C:\Users\duruk\Desktop\21 ekim\26-ekim\26-ekim\obj\Debug\net10.0\26-ekim.pdb
+C:\Users\duruk\Desktop\21 ekim\26-ekim\26-ekim\obj\Debug\net10.0\26-ekim.genruntimeconfig.cache
+C:\Users\duruk\Desktop\21 ekim\26-ekim\26-ekim\obj\Debug\net10.0\ref\26-ekim.dll
+C:\Users\duruk\Desktop\21 ekim\26-ekim\26-ekim\obj\Debug\net10.0\26-ekim.csproj.Up2Date

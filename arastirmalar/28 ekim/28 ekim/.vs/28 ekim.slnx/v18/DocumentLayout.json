@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\duruk\\Desktop\\28 ekim\\28 ekim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8EF7CF-0213-E43E-092C-90F15A6AFBBD}|28 ekim\\28 ekim.csproj|c:\\users\\duruk\\desktop\\28 ekim\\28 ekim\\28 ekim\\readme.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
+      "RelativeMoniker": "D:0:0:{1C8EF7CF-0213-E43E-092C-90F15A6AFBBD}|28 ekim\\28 ekim.csproj|solutionrelative:28 ekim\\readme.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\duruk\\Desktop\\28 ekim\\28 ekim\\28 ekim\\README.md",
+              "RelativeDocumentMoniker": "28 ekim\\README.md",
+              "ToolTip": "C:\\Users\\duruk\\Desktop\\28 ekim\\28 ekim\\28 ekim\\README.md",
+              "RelativeToolTip": "28 ekim\\README.md",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAgwJ0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-02T05:54:04.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
