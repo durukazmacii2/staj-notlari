@@ -1,3 +1,7 @@
-##Staj Notlarım....
+##....Staj Notlarım....##
 
-Staj süresince tuttuğum günlükler , araştırmalar ve ödevlerim..
+Staj süresince tuttuklarım:
+Günlüğüm
+Araştırmalarım
+Notlar
+Projelerim
