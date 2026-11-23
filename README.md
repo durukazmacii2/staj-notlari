@@ -2,6 +2,9 @@
 
 Staj süresince tuttuklarım:
 Günlüğüm
+
 Araştırmalarım
-Notlar
+
+Notlarım
+
 Projelerim
